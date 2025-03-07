@@ -1,0 +1,9 @@
+AMAZON SAGEMAKER AI
+Amazon SageMaker AI (formerly Amazon SageMaker) - Build, train, and deploy ML and foundation models, with fully managed infrastructure, tools, and workflows
+ It provides a UI experience for running ML workflows that makes SageMaker AI ML tools available across multiple integrated development environments (IDEs).
+typical workflow for creating an ML model.
+Generate example data-FETCH,CLEAN,PREPARE OR TRANSFORM
+Train a model
+Deploy the model
+mazon SageMaker provides pre-built fully managed notebook instances that run Jupyter notebooks.
+
